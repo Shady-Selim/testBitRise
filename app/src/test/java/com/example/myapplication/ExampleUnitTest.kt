@@ -16,7 +16,7 @@ class ExampleUnitTest {
     fun test() {
         val a = listOf<String>("a", "b", "c", "d", "e", "f")
         val b = listOf<String>("1", "2", "3")
-        val c = 4
+        val c = 3
         mergeTwoLists(a, b, c)
         //println(result.toString())
     }
