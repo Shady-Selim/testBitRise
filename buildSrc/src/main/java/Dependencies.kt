@@ -5,8 +5,8 @@ object  Versions {
     const val compileSdkVersion = 30
     const val minSdkVersion = 21
     const val targetSdkVersion = 30
-    val versionCode = getLatestVersionCode()
-    val versionName = getLatestTag()
+    val versionCode = 1
+    val versionName = "1.1"
     val versionSuffixDebug = getDebugSuffix()
     val versionSuffixInternal = getInternalSuffix()
     const val dataBaseVersion = "1"
