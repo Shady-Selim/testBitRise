@@ -1,6 +1,6 @@
 import java.util.concurrent.TimeUnit
 
-object Versions {
+object  Versions {
 
     const val compileSdkVersion = 30
     const val minSdkVersion = 21
